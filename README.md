@@ -24,7 +24,3 @@ it will pick winners and display them.
   This library doesn't check for overlaps. If your states overlap
   the behaviour is undefined. In the future the library may check
   and forbid overlaps.
-
-* Gaps
-
-  It is recommended that you don't have gaps between intervals.
